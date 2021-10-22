@@ -31,19 +31,19 @@ gpg2 --import <(curl -sL https://git.io/JKsMD)
 <h2></h2><br>
 <p align="center">
     <samp>
-    <a href="https://t.me/dedysuryaprihantoro" target="_blank">t.me</a> &#9670;
+    <a href="https://t.me/dedysuryaprihantoro" target="_blank">t.me</a> &#9672;
     <a href="https://instagram.com/dedysurya__" target="_blank">[insta]</a> &#9670;
     <a href="mailto:kontak@dedysurya.my.id" target="_blank">mail</a>
     </samp>
 </p>
-
+<!-- 
 <h2></h2><br>
 <p align="center">
     <samp>
     <a href="https://ko-fi.com/V7V05ZACS" target="_blank"><strong>‎ ko-fi ‎</strong></a> &#9672;
     <a href="https://liberapay.com/owl4ce/donate" target="_blank"><strong>liberapay</strong></a>
     </samp>
-</p>
+</p> -->
 
 <h2></h2>
 <p align="center">
