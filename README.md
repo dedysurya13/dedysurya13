@@ -11,8 +11,7 @@
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
         <samp><br>
-        It's right for me, but not for you. Either way,<br>
-        the concept of "right" means no more than that.
+        get lost!
         </samp>
         <br>
     </p>
@@ -32,9 +31,9 @@ gpg2 --import <(curl -sL https://git.io/JKsMD)
 <h2></h2><br>
 <p align="center">
     <samp>
-    <a href="https://t.me/owl4ce" target="_blank">t.me</a> &#9670;
-    <a href="https://matrix.to/#/@owl4ce:matrix.org" target="_blank">[matrix]</a> &#9670;
-    <a href="mailto:alternate-se7en@pm.me" target="_blank">pm.me</a>
+    <a href="https://t.me/dedysuryaprihantoro" target="_blank">t.me</a> &#9670;
+    <a href="https://instagram.com/dedysurya__" target="_blank">[insta]</a> &#9670;
+    <a href="mailto:kontak@dedysurya.my.id" target="_blank">mail</a>
     </samp>
 </p>
 
@@ -49,8 +48,8 @@ gpg2 --import <(curl -sL https://git.io/JKsMD)
 <h2></h2>
 <p align="center">
     <a href="#ǝɔϟlʍo" target="_blank">
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=owl4ce&hide_border=true&title_color=c9d1d9&text_color=c3c5cd"/>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=owl4ce&show_icons=true&include_all_commits=true&count_private=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=c9d1d9&text_color=c3c5cd"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=dedysurya13&hide_border=true&title_color=c9d1d9&text_color=c3c5cd"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=dedysurya13&show_icons=true&include_all_commits=true&count_private=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=c9d1d9&text_color=c3c5cd"/>
     </a>
 </p>
 
