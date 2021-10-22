@@ -11,7 +11,7 @@
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
         <samp><br>
-        get lost!
+        Hello World!
         </samp>
         <br>
     </p>
