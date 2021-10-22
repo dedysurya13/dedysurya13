@@ -40,8 +40,8 @@ gpg2 --import <(curl -sL https://git.io/JKsMD)
 <h2></h2><br>
 <p align="center">
     <samp>
-    <a href="https://ko-fi.com/V7V05ZACS" target="_blank"><strong>‎ ko-fi ‎</strong></a> &#9672;
-    <a href="https://liberapay.com/owl4ce/donate" target="_blank"><strong>liberapay</strong></a>
+    <a href="https://ko-fi.com/" target="_blank"><strong>‎ ko-fi ‎</strong></a> &#9672;
+    <a href="https://liberapay.com/" target="_blank"><strong>liberapay</strong></a>
     </samp>
 </p> -->
 
