@@ -55,9 +55,7 @@ gpg2 --import <(curl -sL https://git.io/JKsMD)
 
 <h2></h2>
 <p align="center">
-    <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=tka9mon1k1ur6olrq8c04yvij&redirect=true">
-        <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=tka9mon1k1ur6olrq8c04yvij&cover_image=true&theme=novatorem"/>
-    </a>
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mndiis7r2tmfzqgws8c09dztw&cover_image=true&theme=default)](https://github.com/dedysurya13)
 </p>
 
 </details>
