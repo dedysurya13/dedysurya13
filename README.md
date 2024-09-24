@@ -33,7 +33,7 @@ gpg2 --import <(curl -sL https://git.io/JKsMD)
     <samp>
     <a href="https://t.me/dedysuryaprihantoro" target="_blank">t.me</a> &#9672;
     <a href="https://instagram.com/dedysurya__" target="_blank">[insta]</a> &#9670;
-    <a href="mailto:kontak@dedysurya.my.id" target="_blank">mail</a>
+    <a href="mailto:mail.dedysurya@gmail.com" target="_blank">mail</a>
     </samp>
 </p>
 <!-- 
@@ -54,10 +54,6 @@ gpg2 --import <(curl -sL https://git.io/JKsMD)
 </p>
 
 <h2></h2>
-<p align="center">
-    <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=mndiis7r2tmfzqgws8c09dztw&redirect=true">
-        <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=mndiis7r2tmfzqgws8c09dztw&cover_image=true&theme=novatorem"/>
-    </a>
-</p>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mndiis7r2tmfzqgws8c09dztw&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mndiis7r2tmfzqgws8c09dztw&cover_image=true&theme=default&show_offline=false&background_color=404040&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 </details>
